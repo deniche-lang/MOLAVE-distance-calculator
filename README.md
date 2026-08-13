@@ -1,36 +1,23 @@
 # MOLAVE Distance Calculator
-# Description
-This program asks the user to input coordinates. Then using sqrt() and pow() from the math library, it calculates the distance between the two points and displays the results clearly.
-
-# How to Run
+## Description
+This program works by using the math library to create a distance calculator. The user is first asked to enter coordinates and the code will then calculate the distance between those two points.
+## How to Run
 - Open the program.
 - Run the program.
 - Enter the required values.
   
-# Input Needed
-- User needs to input coordinates.
-# Sample Output
-
-# Author
+## Input Needed
+- User needs to input the coordinates of two points.
+## Sample Output
+``` 
+PS D:\8-Molave\PELERE> & "C:\Users\PC 01\AppData\Local\Programs\Python\Python313\python.exe" d:/8-Molave/PELERE/Q1_Molave_FA1_Pelere.py.py
+Enter x-coordinate of point 1: 2
+Enter y-coordinate of point 1: 3
+Enter x-coordinate of point 2: 7
+Enter y-coordinate of point 2: 8
+The distance between the two points is: 7.0710678118654755
+PS D:\8-Molave\PELERE> 
+```
+## Author
 Name: Denisse Ysabel R. Pelere 
-Section: Molave
-Task: Create your own README.md using the template above.
-
-
-distance-calculator/ ├── distance_calculator.py └── README.md Upload Checklist Open your GitHub account. Create or open your repository. Upload your improved Python file. Upload your README.md. Write a short and specific commit message. Check that both files are visible. Copy your repository link. Submit the link through your LMS or Google Classroom. Example commit message: Improved distance calculator with comments and README.
-
-Part 8 — Exit Ticket 🎫 Answer briefly.
-
-What makes a comment useful?
-Your answer: ______________________________
-
-Why is a README.md file important?
-Your answer: ______________________________
-
-Give one way to make code more readable.
-Your answer: ______________________________
-
-What commit message would you use for this project, and why?
-Your answer: ______________________________
-
-Final Reminder Clean code = code that works + code that people can understand.
+<br> Section: Molave
